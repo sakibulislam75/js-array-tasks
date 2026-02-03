@@ -1,4 +1,5 @@
 /*
+2.
 Declare an array of 3 tourist destinations
 Add a new tourist destination to your tourist array
 Add two more to your array
